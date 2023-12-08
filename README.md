@@ -20,7 +20,3 @@ Os exercícios abordam diversos tópicos, incluindo, mas não limitados a:
 As soluções disponibilizadas neste repositório são exclusivamente para fins acadêmicos e foram corrigidas pelo juiz online da universidade como parte do processo de aprendizagem na disciplina mencionada.
 
 **Nota:** É recomendável que você tente analisar e criar novas soluções para os problemas, a fim de obter um melhor aproveitamento do aprendizado.
-
-## Licença
-
-Este projeto está disponibilizado sob [Licença MIT](LICENSE). Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
