@@ -1,6 +1,7 @@
 # Exercícios de Revisão em C++ - Introdução aos Algoritmos
 
-Este repositório contém resoluções de exercícios de revisão em C++ para a primeira avaliação da disciplina "Introdução aos Algoritmos" na Universidade Federal de Lavras (UFLA). Os exercícios são baseados em questões disponíveis no sistema "Dredd" da UFLA, utilizado para correção de exercícios, e foram resolvidos com propósito exclusivamente acadêmico. Aqui não estarão disponibilizados os enunciados dos exercícios, mas apenas suas respectivas resoluções, cabendo ao contribuinte fazer sua interpretação própria do propósito do programa.
+Este repositório contém resoluções de exercícios de revisão em C++ para a primeira avaliação da disciplina "Introdução aos Algoritmos" na Universidade Federal de Lavras (UFLA). Os exercícios são baseados em questões disponíveis no sistema "Dredd" da UFLA, utilizado para correção de exercícios, e foram resolvidos com propósito exclusivamente acadêmico. Aqui não estarão disponibilizados os enunciados dos exercícios, mas apenas suas respectivas resoluções e uma breve orientação quanto ao propósito do programa.
+É importante frisar que há um pequeno número de exercícios avulsos, alheios à plataforma citada anteriormente.
 
 ## Conteúdo
 
